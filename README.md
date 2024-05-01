@@ -1,23 +1,24 @@
-# 0x0F-load_balancer
+# 0x0D-web_stack_debugging_0
 
 # Description
-This project in the System engineering & DevOps ― Web stack series is about:
-* Adding a new server
-* Add and configure loading balancer software/hardware
-* Understanding load balancing algorithms
+
+This project in the System Engineering & DevOps series is about:
+* containers with Docker
+* Web stack Debbuging
+* Linux commands to help with debbuging
+* understanding how to figure problems and solve
 
 # Files
 
-| Files -------------------- | Tasks
+| File ------------------- | Task
 |
-| 0-custom_http_response_header | Script to add and configure another webserver
-| 1-install_load_balancer       | Script to install and configure HAproxy on lb-01
+| 0-give_me_a_page ------  | Bash script to get Apche to run on a Docker container
 
 # Directories
 
-| Directories ----------------- | Description
+| Directory Name ----------- | Description
 |
-| 0x0F-load_balancer ---------- | main folder with scripts
+| 0x0D-web_stack_debugging_0
 
 # Author
 
